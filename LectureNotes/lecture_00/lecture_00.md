@@ -1,5 +1,7 @@
 # Tue Aug 28 12:44:33 CDT 2012
 
+[[Provided Notes|01_npc.pdf]]
+
 
 *RAM Model* => Single thread infinite memory computing model.
 
