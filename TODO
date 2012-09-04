@@ -1,0 +1,5 @@
+Create the following rake tasks
+* start new lecture
+  * create a folder
+  * create the page (ex lecture_00.md)
+  * insert the date at the top of the file.
